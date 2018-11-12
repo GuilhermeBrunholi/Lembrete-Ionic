@@ -1,6 +1,3 @@
-An example of using SQLIte with Ionic
-
-## How to run this example
 
 ### With the Ionic CLI:
 
